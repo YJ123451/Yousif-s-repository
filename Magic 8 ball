@@ -48,7 +48,7 @@ disply,
  elif ​response == ​13​:
  ​print​(​"Keep doing what you're doing and it'll happen."​)
  elif ​response == ​14​:
- ​print​(​"Lmaooo you thought"​)
+ ​print​(​"Not a chance")
  elif ​response == ​15​:
  ​print​(​"No."​)
  elif ​response == ​16​:
